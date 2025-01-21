@@ -1,9 +1,9 @@
 ## <h2 align="center" style="font-family: 'Georgia', 'Times New Roman', serif font-size: 18px"> Welcome to My GitHub Profile! 👋 👋</h2> 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif+Caption&letterSpacing=3px&pause=1000&color=A719B8&width=435&lines=Junior+.Net+Web+Developer;Always+Trying+To+Do+My+Best" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=931CCA&width=435&lines=Full-Stack+.Net+Developer;Always+Trying+To+Do+My+Best" alt="Typing SVG" /></a>
 </div>
 
-* Hi there! I'm a passionate **Junior Backend .NET Developer** with a keen eye for building efficient, scalable, and robust server-side applications. With a strong foundation in **C#**, **ASP.NET Core**, and **RESTful APIs**.
+* Hi there! I'm a passionate **Full-Stack .NET Developer** with a keen eye for building efficient, scalable, and robust server-side applications. With a strong foundation in **C#**, **ASP.NET Core**, and **RESTful APIs**.
 
 ##  👤 A bit about me 
 - 👨‍💻 Computer Science graduate and also completed a program at the ITI, where I gained valuable skills and knowledge. I enjoy building efficient and scalable web applications, and I'm always eager to learn new skills and improve my craft.
